@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\Lenovo\source\repos\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
